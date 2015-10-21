@@ -1,0 +1,215 @@
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.frmAbout.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.frmAbout.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+C:\Users\mac\Desktop\work\work_files\packetE\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csprojResolveAssemblyReference.cache
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.frmAbout.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csproj.GenerateResource.Cache
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\Scripts\external_filter_server.py
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\Scripts\filter.py
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\bin\Release\Scripts\mirror_server.py
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.FrmPython.resources
+O:\Programs\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.FrmBurpCode.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\Scripts\external_filter_server.py
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\Scripts\filter.py
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\Scripts\mirror_server.py
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csprojResolveAssemblyReference.cache
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.frmAbout.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.FrmBurpCode.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.FrmPython.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csproj.GenerateResource.Cache
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+W:\work\tools\appsec dev\PacketE3\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csprojResolveAssemblyReference.cache
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.EditFilter.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Attach.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Filters.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.frmAbout.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.FrmBurpCode.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.FrmPython.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Main.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.ReplayEditor.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Sockets.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.Properties.Resources.resources
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.csproj.GenerateResource.Cache
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.pdb
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\WSPE.dat
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\Scripts\external_filter_server.py
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\Scripts\filter.py
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\Scripts\mirror_server.py
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.config
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe.manifest
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.application
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.exe
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\PacketEditor.pdb
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\bin\Release\Be.Windows.Forms.HexBox.dll
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.TrustInfo.xml
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.exe.manifest
+N:\AppSec\PacketEditor\PacketEditor\PacketEditor\obj\x86\Release\PacketEditor.application

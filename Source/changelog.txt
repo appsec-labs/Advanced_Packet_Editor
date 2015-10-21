@@ -1,0 +1,15 @@
+In grid menu:
+	Added filter view menu
+	Added auto scroll option
+	Added inject option
+In file menu:
+	Added reattach option
+In tools menu:
+	Changed Enable filters to include external filters
+	Added Enable External Filter
+	Added Listen for requests
+	Changed name from Filters to Internal filters
+Added about form
+Added python extension:
+	Added server.py and filter.py, works with Enable external filter
+	Added flood_1.py and flood_2.py works with Listen for requests

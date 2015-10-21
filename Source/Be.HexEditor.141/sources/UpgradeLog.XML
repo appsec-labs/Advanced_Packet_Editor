@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Be.HexEditor">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.HexEditor.sln">
+</Property><Property Name="Date" Value="Monday, June 07, 2010">
+</Property><Property Name="Time" Value="14:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Be.HexEditor" Source="Be.HexEditor\Be.HexEditor.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Be.HexEditor" Source="Be.HexEditor\Be.HexEditor.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Be.Windows.Forms.HexBox" Source="Be.Windows.Forms.HexBox\Be.Windows.Forms.HexBox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Be.Windows.Forms.HexBox" Source="Be.Windows.Forms.HexBox\Be.Windows.Forms.HexBox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Be.HexEditor.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Be.HexEditor.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Be.HexEditor" Source="Be.HexEditor\Be.HexEditor.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Be.Windows.Forms.HexBox" Source="Be.Windows.Forms.HexBox\Be.Windows.Forms.HexBox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

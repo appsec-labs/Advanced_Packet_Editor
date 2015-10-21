@@ -1,0 +1,9 @@
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.pdb
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\bin\Debug\Be.Windows.Forms.HexBox.xml
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.resources
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.dll
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\Be.HexEditor.141\sources\Be.Windows.Forms.HexBox\obj\Debug\Be.Windows.Forms.HexBox.pdb

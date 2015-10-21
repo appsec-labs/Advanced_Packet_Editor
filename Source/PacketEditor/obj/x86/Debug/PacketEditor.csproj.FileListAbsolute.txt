@@ -1,0 +1,176 @@
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\bin\Debug\WSPE.exe
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\bin\Debug\WSPE.pdb
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\WSPE.frmMain.resources
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\WSPE.Properties.Resources.resources
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\WSPE.exe
+C:\Documents and Settings\SW11718\Local Settings\Application Data\Temporary Projects\WSPE\obj\x86\Debug\WSPE.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\PacketEditor.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.pdb
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.config
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.manifest
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\PacketEditor.application
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Properties.Resources.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe.manifest
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.application
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4114.tlog
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4113.tlog
+C:\Documents and Settings\SW11718\My Documents\Visual Studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4113.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4601.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4645.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4601.tlog
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.EditFilter.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Attach.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Filters.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Main.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.ReplayEditor.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Sockets.resources
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.TrustInfo.xml
+C:\Documents and Settings\SW11718\my documents\visual studio 2010\Projects\PacketEditor\PacketEditor\bin\Debug\WSPE.dat
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\WSPE.dat
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.config
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.application
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.pdb
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Main.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4113.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4601.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4645.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4113.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4114.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4601.tlog
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.application
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe
+C:\Users\mac\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.pdb
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Main.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4113.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4601.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4645.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4113.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4114.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4601.tlog
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\WSPE.dat
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.config
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.application
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.pdb
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.application
+C:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.pdb
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.EditFilter.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Attach.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Filters.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Main.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.ReplayEditor.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Sockets.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Properties.Resources.resources
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4113.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4601.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4645.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4113.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4114.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4601.tlog
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\WSPE.dat
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.config
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.manifest
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.application
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.pdb
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Be.Windows.Forms.HexBox.dll
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.TrustInfo.xml
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe.manifest
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.application
+F:\Users\mac\Desktop\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.pdb
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\WSPE.dat
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.config
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.application
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.pdb
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.EditFilter.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Attach.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Filters.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.frmAbout.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Main.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.ReplayEditor.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Sockets.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Properties.Resources.resources
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4113.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4601.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.read.4645.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4113.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4114.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\GenerateResource.write.4601.tlog
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.TrustInfo.xml
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe.manifest
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.application
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe
+C:\Users\mac\Desktop\work_files\packetE\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.pdb
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.EditFilter.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Attach.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Filters.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.frmAbout.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.FrmBurpCode.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.FrmPython.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Main.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.ReplayEditor.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Sockets.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.Properties.Resources.resources
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.csproj.GenerateResource.Cache
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.pdb
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\WSPE.dat
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Scripts\external_filter_server.py
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Scripts\filter.py
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Scripts\mirror_server.py
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.config
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe.manifest
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.application
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.exe
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\PacketEditor.pdb
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\bin\Debug\Be.Windows.Forms.HexBox.dll
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.TrustInfo.xml
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.exe.manifest
+C:\Users\evaluation\Desktop\PacketEditor\PacketEditor\PacketEditor\obj\x86\Debug\PacketEditor.application
