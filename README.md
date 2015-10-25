@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Advanced Packet Editor - AppSec Labs}
+## Advanced Packet Editor - AppSec Labs
 
 Advanced Packet Editor (APE) is an open source packet editor for viewing and editing TCP and HTTP communication
 
@@ -18,8 +16,7 @@ Run "Advanced Packet Editor Installer.exe" and follow the instructions
 
 ## Contributing
 
-Israel Chorzevski (Sro - sro.co.il)
-Gilad Ofir
+Israel Chorzevski (Sro - sro.co.il) and Gilad Ofir
 
 
 
@@ -27,6 +24,3 @@ Gilad Ofir
 
 Gnu Public License
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
