@@ -16,7 +16,7 @@ Run "Advanced Packet Editor Installer.exe" and follow the instructions
 
 ## Contributing
 
-Israel Chorzevski (Sro - sro.co.il) and Gilad Ofir
+Israel Chorzevski (Sro - sro.co.il) and Gilad Ofir.<br>
 Special thanks to the original developers at http://www.packeteditor.com/ for the project and the suppied source code!
 
 
